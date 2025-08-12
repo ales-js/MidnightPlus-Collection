@@ -1,0 +1,190 @@
+{
+  "name": "Midnight+ Obsidian",
+  "description": "a Midnight/AMOLED theme with purple accents",
+  "authors": [
+    {
+      "name": "ales.js"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#FF0000"
+    ],
+    "ANDROID_RIPPLE": [
+      "#FF0000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#FF0000"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#FF0000"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#FF0000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#FF0000"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#FF0000"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#FF0000"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#FF0000"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#FF0000"
+    ],
+    "BG_BRAND": [
+      "#FF0000"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#FF0000"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#FF0000"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#FF0000"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#FF0000"
+    ],
+    "CHANNEL_ICON": [
+      "#FF0000"
+    ],
+    "EMBED_BACKGROUND": [
+      "#FF0000"
+    ],
+    "EMBED_BACKGROUND_ALTERNATE": [
+      "#FF0000"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FF0000"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#FF0000"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#FF0000"
+    ],
+    "PANEL_BG": [
+      "#FF0000"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#FF0000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#FF0000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#FF0000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+      "#FF0000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": [
+      "#FF0000"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_TEXT": [
+      "#FF0000"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#FF0000"
+    ],
+    "TEXT_NORMAL": [
+      "#FF0000"
+    ],
+    "TEXT_PRIMARY": [
+      "#FF0000"
+    ],
+    "TEXT_SECONDARY": [
+      "#FF0000"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#FF0000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#FF0000"
+    ],
+    "PREMIUM_NITRO_PINK_TEXT": [
+      "#FF0000"
+    ],
+    "TEXT_MUTED": [
+      "#FF0000"
+    ],
+    "TEXT_LINK": [
+      "#FF0000"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#FF0000"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#FF0000"
+    ],
+    "INPUT_BACKGROUND": [
+      "#FF0000"
+    ],
+    "TEXT_DANGER": [
+      "#FF0000"
+    ],
+    "BUTTON_OUTLINE_DANGER_BORDER": [
+      "#FF0000"
+    ],
+    "INFO_DANGER_BACKGROUND": [
+      "#FF0000"
+    ],
+    "INFO_DANGER_FOREGROUND": [
+      "#FF0000"
+    ],
+    "STATUS_DANGER": [
+      "#FF0000"
+    ],
+    "STATUS_DND": [
+      "#FF0000"
+    ],
+    "BACKGROUND_MESSAGE_AUTOMOD": [
+      "#FF0000"
+    ],
+    "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [
+      "#FF0000"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#FF0000"
+    ]
+  },
+  "rawColors": {
+    "BLUE_345": "#FF0000",
+    "GREEN_430": "#FF0000",
+    "RED_430": "#FF0000",
+    "RED_460": "#FF0000",
+    "GREEN_460": "#FF0000",
+    "BRAND_260": "#FF0000",
+    "BRAND_360": "#FF0000",
+    "RED_400": "#FF0000",
+    "BRAND_500": "#FF0000",
+    "BRAND_560": "#FF0000",
+    "PLUM_13": "#FF0000",
+    "PLUM_14": "#FF0000",
+    "PLUM_15": "#FF0000",
+    "PLUM_16": "#FF0000",
+    "PLUM_17": "#FF0000",
+    "PLUM_18": "#FF0000",
+    "PLUM_19": "#FF0000",
+    "PLUM_20": "#FF0000",
+    "PLUM_22": "#FF0000",
+    "PLUM_24": "#FF0000",
+    "PRIMARY_500": "#FF0000",
+    "PRIMARY_600": "#FF0000",
+    "PRIMARY_660": "#FF0000",
+    "PRIMARY_700": "#FF0000",
+    "PRIMARY_800": "#FF0000"
+  },
+  "spec": 2,
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#FF0000"
+  }
+}
