@@ -95,13 +95,13 @@
       "#FF0000"
     ],
     "TEXT_NORMAL": [
-      "#FF0000"
+      "#00FF00"
     ],
     "TEXT_PRIMARY": [
-      "#FF0000"
+      "#00FF00"
     ],
     "TEXT_SECONDARY": [
-      "#FF0000"
+      "#00FF00"
     ],
     "THREAD_CHANNEL_SPINE": [
       "#FF0000"
@@ -188,5 +188,6 @@
     "mentionLineColor": "#FF0000"
   }
 }
+
 
 
