@@ -11,10 +11,10 @@
       "#0000FF"
     ],
     "ANDROID_RIPPLE": [
-      "#FF0000"
+      "#0000FF"
     ],
     "BACKGROUND_ACCENT": [
-      "#FF0000"
+      "#00FF00"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#FF0000"
@@ -188,4 +188,5 @@
     "mentionLineColor": "#FF0000"
   }
 }
+
 
