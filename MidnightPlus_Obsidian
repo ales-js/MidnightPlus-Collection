@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian",
+  "name": "Midnight+ Obsidian 0.90.x",
   "description": "a Midnight/AMOLED theme with purple accents",
   "authors": [
     {
@@ -8,34 +8,34 @@
   ],
   "semanticColors": {
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-      "#0000FF"
+      "#000000"
     ],
     "ANDROID_RIPPLE": [
       "#0000FF"
     ],
     "BACKGROUND_ACCENT": [
-      "#00FF00"
+      "#262626"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#FF0000"
     ],
     "BACKGROUND_PRIMARY": [
-      "#FF0000"
+      "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#FF0000"
+      "#0c001a"
     ],
     "BACKGROUND_MENTIONED": [
-      "#FF0000"
+      "#18002e"
     ],
     "BG_BASE_TERTIARY": [
-      "#FF0000"
+      "#000000"
     ],
     "BG_BASE_PRIMARY": [
-      "#FF0000"
+      "#000000"
     ],
     "BG_BASE_SECONDARY": [
-      "#FF0000"
+      "#000000"
     ],
     "BG_BRAND": [
       "#FF0000"
@@ -47,100 +47,100 @@
       "#FF0000"
     ],
     "CARD_PRIMARY_BG": [
-      "#FF0000"
+      "#141318"
     ],
     "CARD_SECONDARY_BG": [
-      "#FF0000"
+      "#1a1a1a"
     ],
     "CHANNEL_ICON": [
-      "#FF0000"
+      "#360069"
     ],
     "EMBED_BACKGROUND": [
-      "#FF0000"
+      "#191919"
     ],
     "EMBED_BACKGROUND_ALTERNATE": [
       "#FF0000"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FF0000"
+      "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#FF0000"
+      "#1e003b"
     ],
     "INTERACTIVE_NORMAL": [
-      "#FF0000"
+      "#5500ff"
     ],
     "PANEL_BG": [
-      "#FF0000"
+      "#0f1014"
     ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
       "#FF0000"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#FF0000"
+      "#1a1a1a"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#FF0000"
+      "#X"
     ],
     "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-      "#FF0000"
+      "#202020"
     ],
     "REDESIGN_BUTTON_SECONDARY_TEXT": [
-      "#FF0000"
+      "#5500ff"
     ],
     "REDESIGN_BUTTON_TERTIARY_TEXT": [
-      "#FF0000"
+      "#5500ff"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#FF0000"
+      "#4300a1"
     ],
     "TEXT_NORMAL": [
-      "#00FF00"
+      "#5d00ff"
     ],
     "TEXT_PRIMARY": [
-      "#00FF00"
+      "#d1d1d1"
     ],
     "TEXT_SECONDARY": [
-      "#00FF00"
+      "#5500ff"
     ],
     "THREAD_CHANNEL_SPINE": [
       "#FF0000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#FF0000"
+      "#5500ff"
     ],
     "PREMIUM_NITRO_PINK_TEXT": [
       "#FF0000"
     ],
     "TEXT_MUTED": [
-      "#FF0000"
+      "#5d00ff"
     ],
     "TEXT_LINK": [
-      "#FF0000"
+      "#5d00ff"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#FF0000"
+      "#090015"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#FF0000"
+      "#090015"
     ],
     "INPUT_BACKGROUND": [
-      "#FF0000"
+      "#141318"
     ],
     "TEXT_DANGER": [
-      "#FF0000"
+      "#ff3030"
     ],
     "BUTTON_OUTLINE_DANGER_BORDER": [
-      "#FF0000"
+      "#1100ff"
     ],
     "INFO_DANGER_BACKGROUND": [
-      "#FF0000"
+      "#00ff00"
     ],
     "INFO_DANGER_FOREGROUND": [
-      "#FF0000"
+      "#ff00a2"
     ],
     "STATUS_DANGER": [
-      "#FF0000"
+      "#170029"
     ],
     "STATUS_DND": [
       "#FF0000"
@@ -188,6 +188,3 @@
     "mentionLineColor": "#FF0000"
   }
 }
-
-
-
