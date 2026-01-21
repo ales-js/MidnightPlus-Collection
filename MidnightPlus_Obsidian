@@ -1,7 +1,7 @@
 {
-  "name": "Midnight+ Obsidian V1.1",
+  "name": "Midnight+ Obsidian V1.2",
   "description": "a Midnight/AMOLED theme with purple accents",
-  "version": "1.1",
+  "version": "1.2",
   "authors": [
     {
       "name": "ales.js"
@@ -48,7 +48,7 @@
       "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#0c001a"
+      "#000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#0000FF"
@@ -102,7 +102,7 @@
       "#141318"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ffff00"
+      "#8700ff"
     ],
     "INTERACTIVE_HOVER": [
       "#00FFFF"
@@ -135,7 +135,7 @@
       "#ffffff"
     ],
     "THREAD_CHANNEL_SPINE": [
-      "#0000FF"
+      "#8700ff"
     ],
     "BG_BASE_PRIMARY": [
       "#000000"
@@ -150,7 +150,7 @@
       "#00FFFF"
     ],
     "BG_MOD_STRONG": [
-      "#00FFFF"
+      "#8700ff"
     ],
     "BG_MOD_SUBTLE": [
       "#00FFFF"
@@ -204,7 +204,7 @@
       "#00FFFF"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#00FFFF"
+      "#8700ff"
     ],
     "BG_BACKDROP": [
       "#00FFFF"
@@ -334,7 +334,7 @@
     "PRIMARY_660": "#1c1c1c",
     "PRIMARY_700": "#0000FF",
     "PRIMARY_730": "#00FFFF",
-    "PRIMARY_800": "#0000FF",
+    "PRIMARY_800": "#8700ff",
     "PLUM_0": "#00FFFF",
     "PLUM_10": "#00FFFF",
     "PLUM_11": "#00FFFF",
@@ -499,4 +499,5 @@
   },
   "spec": 2
 }
+
 
