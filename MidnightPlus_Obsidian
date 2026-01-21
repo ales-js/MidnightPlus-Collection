@@ -1,7 +1,7 @@
 {
-  "name": "Midnight+ Obsidian V1.2",
+  "name": "Midnight+ Obsidian V1.1",
   "description": "a Midnight/AMOLED theme with purple accents",
-  "version": "1.2",
+  "version": "1.1",
   "authors": [
     {
       "name": "ales.js"
@@ -24,7 +24,7 @@
       "#00FFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#170030"
+      "#1a1a1a"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#00FF00"
@@ -51,7 +51,7 @@
       "#000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#0000FF"
+      "#000000"
     ],
     "BACKGROUND_TERTIARY": [
       "#00FFFF"
@@ -499,5 +499,6 @@
   },
   "spec": 2
 }
+
 
 
