@@ -51,7 +51,7 @@
       "#0c001a"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#5500ff"
+      "#0000FF"
     ],
     "BACKGROUND_TERTIARY": [
       "#00FFFF"
@@ -75,7 +75,7 @@
       "#0C0B10"
     ],
     "CHANNEL_ICON": [
-      "#5500ff"
+      "#0000FF"
     ],
     "CHANNELS_DEFAULT": [
       "#00FFFF"
@@ -111,7 +111,7 @@
       "#1e003b"
     ],
     "INTERACTIVE_NORMAL": [
-      "#5500ff"
+      "#0000FF"
     ],
     "MENTION_BACKGROUND": [
       "#00FFFF"
@@ -123,7 +123,7 @@
       "#ff3030"
     ],
     "TEXT_LINK": [
-      "#5d00ff"
+      "#0000FF"
     ],
     "TEXT_NORMAL": [
       "#ffffff"
@@ -135,7 +135,7 @@
       "#ffffff"
     ],
     "THREAD_CHANNEL_SPINE": [
-      "#5500ff"
+      "#0000FF"
     ],
     "BG_BASE_PRIMARY": [
       "#000000"
@@ -174,7 +174,7 @@
       "#141318"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#4300a1"
+      "#0000FF"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#00FFFF"
@@ -198,7 +198,7 @@
       "#00FFFF"
     ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-      "#5c00b3"
+      "#0000FF"
     ],
     "REDESIGN_BUTTON_PRIMARY_TEXT": [
       "#00FFFF"
@@ -219,7 +219,7 @@
       "#00FFFF"
     ],
     "BUTTON_OUTLINE_DANGER_BORDER": [
-      "#1100ff"
+      "#8700ff"
     ],
     "STATUS_DANGER": [
       "#170029"
@@ -231,7 +231,7 @@
       "#00FFFF"
     ],
     "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-      "#00FFFF"
+      "#8700ff"
     ],
     "DIVIDER_STRONG": [
       "#00FFFF"
@@ -249,7 +249,7 @@
       "#00FFFF"
     ],
     "INPUT_FOCUSED_BORDER": [
-      "#00FFFF"
+      "#8700ff"
     ],
     "NAVIGATOR_HEADER_TINT": [
       "#00FFFF"
@@ -291,10 +291,10 @@
       "#141318"
     ],
     "REDESIGN_BUTTON_SECONDARY_TEXT": [
-      "#5500ff"
+      "#0000FF"
     ],
     "REDESIGN_BUTTON_TERTIARY_TEXT": [
-      "#5500ff"
+      "#0000FF"
     ],
     "TEXT_SECONDARY": [
       "#ffffff"
@@ -309,7 +309,7 @@
       "#F23F43"
     ],
     "STATUS_DND": [
-      "#7b00ff"
+      "#0000FF"
     ],
     "BACKGROUND_MESSAGE_AUTOMOD": [
       "#150D0B"
@@ -332,9 +332,9 @@
     "PRIMARY_630": "#00FFFF",
     "PRIMARY_645": "#00FFFF",
     "PRIMARY_660": "#1c1c1c",
-    "PRIMARY_700": "#8400ff",
+    "PRIMARY_700": "#0000FF",
     "PRIMARY_730": "#00FFFF",
-    "PRIMARY_800": "#8400ff",
+    "PRIMARY_800": "#0000FF",
     "PLUM_0": "#00FFFF",
     "PLUM_10": "#00FFFF",
     "PLUM_11": "#00FFFF",
@@ -354,13 +354,13 @@
     "BRAND_300": "#00FFFF",
     "BRAND_330": "#00FFFF",
     "BRAND_345": "#00FFFF",
-    "BRAND_360": "#8400ff",
+    "BRAND_360": "#0000FF",
     "BRAND_400": "#00FFFF",
     "BRAND_430": "#00FFFF",
     "BRAND_460": "#00FFFF",
-    "BRAND_500": "#8400ff",
+    "BRAND_500": "#0000FF",
     "BRAND_530": "#00FFFF",
-    "BRAND_560": "#8400ff",
+    "BRAND_560": "#0000FF",
     "BRAND_600": "#00FFFF",
     "BRAND_630": "#00FFFF",
     "BRAND_660": "#00FFFF",
@@ -441,7 +441,7 @@
     "BLUE_260": "#00FFFF",
     "BLUE_300": "#00FFFF",
     "BLUE_330": "#00FFFF",
-    "BLUE_345": "#000000",
+    "BLUE_345": "#8700ff",
     "BLUE_360": "#00FFFF",
     "BLUE_400": "#00FFFF",
     "BLUE_430": "#00FFFF",
@@ -462,7 +462,7 @@
   "plus": {
     "version": "0",
     "iconpack": "MaterialTwoTone",
-    "mentionLineColor": "#5500ff",
+    "mentionLineColor": "#0000FF",
     "customOverlays": true,
     "icons": {
       "ic_radio_circle_checked": "#00FFFF",
@@ -499,4 +499,3 @@
   },
   "spec": 2
 }
-
