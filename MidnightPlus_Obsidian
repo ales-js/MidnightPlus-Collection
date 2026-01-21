@@ -138,13 +138,13 @@
       "#8700ff"
     ],
     "BG_BASE_PRIMARY": [
-      "#000000"
+      "#00ff00"
     ],
     "BG_BASE_SECONDARY": [
       "#000000"
     ],
     "BG_BASE_TERTIARY": [
-      "#000000"
+      "#ff0000"
     ],
     "BG_MOD_FAINT": [
       "#00FFFF"
@@ -499,6 +499,7 @@
   },
   "spec": 2
 }
+
 
 
 
