@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.2",
+  "name": "Midnight+ Obsidian V1.1",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.1",
   "authors": [
@@ -73,6 +73,9 @@
     ],
     "CARD_PRIMARY_PRESSED_BG": [
       "#00FFFF"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#141318"
     ],
     "CARD_SECONDARY_BG": [
       "#141318"
