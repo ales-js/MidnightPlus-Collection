@@ -342,7 +342,7 @@
     "PRIMARY_730": "#00FFFF",
     "PRIMARY_800": "#8700ff",
     "PLUM_0": "#00FFFF",
-    "PLUM_1": "#8700ff"
+    "PLUM_1": "#8700ff",
     "PLUM_3": "#00FFFF",
     "PLUM_4": "#00FFFF",
     "PLUM_6": "#8700ff",
@@ -506,3 +506,4 @@
   },
   "spec": 2
 }
+
