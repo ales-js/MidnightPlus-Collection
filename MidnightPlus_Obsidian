@@ -72,7 +72,7 @@
       "#00FFFF"
     ],
     "CARD_SECONDARY_BG": [
-      "#0C0B10"
+      "#141318"
     ],
     "CHANNEL_ICON": [
       "#0000FF"
@@ -114,7 +114,7 @@
       "#0000FF"
     ],
     "MENTION_BACKGROUND": [
-      "#00FFFF"
+      "#8700ff"
     ],
     "MENTION_FOREGROUND": [
       "#00FFFF"
@@ -360,7 +360,7 @@
     "BRAND_460": "#00FFFF",
     "BRAND_500": "#0000FF",
     "BRAND_530": "#00FFFF",
-    "BRAND_560": "#0000FF",
+    "BRAND_560": "#8700ff",
     "BRAND_600": "#00FFFF",
     "BRAND_630": "#00FFFF",
     "BRAND_660": "#00FFFF",
@@ -499,6 +499,7 @@
   },
   "spec": 2
 }
+
 
 
 
