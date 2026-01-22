@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.1",
+  "name": "Midnight+ Obsidian V1.0",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -12,7 +12,7 @@
       "#141414"
     ],
     "BACKGROUND_ACCENT": [
-      "#9100FF"
+      "#5500ff"
     ],
     "BACKGROUND_MENTIONED": [
       "#18002e"
@@ -81,7 +81,7 @@
       "#141318"
     ],
     "CHANNEL_ICON": [
-      "#9100FF"
+      "#5500ff"
     ],
     "CHANNELS_DEFAULT": [
       "#00FFFF"
@@ -111,7 +111,7 @@
       "#141318"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#9100FF"
+      "#5500ff"
     ],
     "INTERACTIVE_HOVER": [
       "#00FFFF"
@@ -123,10 +123,10 @@
       "#0000FF"
     ],
     "INTERACTIVE_ICON_DEFAULT": [
-      "#9100FF"
+      "#5500ff"
     ],
     "MENTION_BACKGROUND": [
-      "#9100FF"
+      "#5500ff"
     ],
     "MENTION_FOREGROUND": [
       "#00FFFF"
@@ -135,7 +135,7 @@
       "#ff3030"
     ],
     "TEXT_LINK": [
-      "#9100FF"
+      "#5500ff"
     ],
     "TEXT_NORMAL": [
       "#ffffff"
@@ -150,7 +150,7 @@
       "#FFFFFF"
     ],
     "THREAD_CHANNEL_SPINE": [
-      "#9100FF"
+      "#5500ff"
     ],
     "BG_BASE_PRIMARY": [
       "#00ff00"
@@ -165,7 +165,7 @@
       "#00FFFF"
     ],
     "BG_MOD_STRONG": [
-      "#9100FF"
+      "#5500ff"
     ],
     "BG_MOD_SUBTLE": [
       "#00FFFF"
@@ -219,7 +219,7 @@
       "#00FFFF"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#9100FF"
+      "#5500ff"
     ],
     "BG_BACKDROP": [
       "#00FFFF"
@@ -234,7 +234,7 @@
       "#00FFFF"
     ],
     "BUTTON_OUTLINE_DANGER_BORDER": [
-      "#9100FF"
+      "#5500ff"
     ],
     "STATUS_DANGER": [
       "#170029"
@@ -246,7 +246,7 @@
       "#00FFFF"
     ],
     "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-      "#9100FF"
+      "#5500ff"
     ],
     "DIVIDER_STRONG": [
       "#00FFFF"
@@ -264,7 +264,7 @@
       "#00FFFF"
     ],
     "INPUT_FOCUSED_BORDER": [
-      "#9100FF"
+      "#5500ff"
     ],
     "NAVIGATOR_HEADER_TINT": [
       "#00FFFF"
@@ -349,20 +349,20 @@
     "PRIMARY_660": "#1c1c1c",
     "PRIMARY_700": "#0000FF",
     "PRIMARY_730": "#00FFFF",
-    "PRIMARY_800": "#9100FF",
+    "PRIMARY_800": "#5500ff",
     "PLUM_0": "#00FFFF",
-    "PLUM_1": "#9100FF",
+    "PLUM_1": "#5500ff",
     "PLUM_3": "#00FFFF",
     "PLUM_4": "#00FFFF",
-    "PLUM_6": "#9100FF",
+    "PLUM_6": "#5500ff",
     "PLUM_10": "#00FFFF",
-    "PLUM_11": "#9100FF",
+    "PLUM_11": "#5500ff",
     "PLUM_13": "#141318",
     "PLUM_14": "#141318",
     "PLUM_15": "#0000FF",
     "PLUM_16": "#2d2d35",
     "PLUM_17": "#090015",
-    "PLUM_18": "#9100FF",
+    "PLUM_18": "#5500ff",
     "PLUM_20": "#000000",
     "PLUM_22": "#17161C",
     "PLUM_24": "#000000",
@@ -370,13 +370,13 @@
     "BRAND_300": "#00FFFF",
     "BRAND_330": "#00FFFF",
     "BRAND_345": "#00FFFF",
-    "BRAND_360": "#9100FF",
+    "BRAND_360": "#5500ff",
     "BRAND_400": "#00FFFF",
     "BRAND_430": "#00FFFF",
     "BRAND_460": "#00FFFF",
     "BRAND_500": "#0000FF",
     "BRAND_530": "#00FFFF",
-    "BRAND_560": "#9100FF",
+    "BRAND_560": "#5500ff",
     "BRAND_600": "#00FFFF",
     "BRAND_630": "#00FFFF",
     "BRAND_660": "#00FFFF",
@@ -443,7 +443,7 @@
     "GREEN_300": "#00FFFF",
     "GREEN_330": "#00FFFF",
     "GREEN_345": "#00FFFF",
-    "GREEN_360": "#9100FF",
+    "GREEN_360": "#5500ff",
     "GREEN_400": "#00FFFF",
     "GREEN_430": "#1e8743",
     "GREEN_460": "#227840",
@@ -457,7 +457,7 @@
     "BLUE_260": "#00FFFF",
     "BLUE_300": "#00FFFF",
     "BLUE_330": "#00FFFF",
-    "BLUE_345": "#9100FF",
+    "BLUE_345": "#5500ff",
     "BLUE_360": "#00FFFF",
     "BLUE_400": "#00FFFF",
     "BLUE_430": "#00FFFF",
@@ -515,6 +515,7 @@
   },
   "spec": 2
 }
+
 
 
 
