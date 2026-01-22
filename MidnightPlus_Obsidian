@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.0",
+  "name": "Midnight+ Obsidian V1.1",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -57,16 +57,13 @@
       "#ff0000"
     ],
     "BACKGROUND_BASE_LOWEST": [
-      "#00FF00"
+      "#000000"
     ],
     "BADGE_BRAND_BG": [
       "#00FFFF"
     ],
     "BADGE_BRAND_TEXT": [
       "#00FFFF"
-    ],
-    "BG_SURFACE_OVERLAY_TMP": [
-      "#0000FF"
     ],
     "BORDER_FAINT": [
       "#00FFFF"
@@ -345,25 +342,26 @@
     "PRIMARY_730": "#00FFFF",
     "PRIMARY_800": "#8700ff",
     "PLUM_0": "#00FFFF",
+    "PLUM_1": "#8700ff"
+    "PLUM_3": "#00FFFF",
+    "PLUM_4": "#00FFFF",
+    "PLUM_6": "#8700ff",
     "PLUM_10": "#00FFFF",
-    "PLUM_11": "#00FFFF",
+    "PLUM_11": "#8700ff",
     "PLUM_13": "#141318",
-    "PLUM_14": "#232426",
+    "PLUM_14": "#141318",
     "PLUM_15": "#0000FF",
     "PLUM_16": "#2d2d35",
     "PLUM_17": "#090015",
-    "PLUM_18": "#000000",
+    "PLUM_18": "#8700ff",
     "PLUM_20": "#000000",
     "PLUM_22": "#17161C",
     "PLUM_24": "#000000",
-    "PLUM_3": "#00FFFF",
-    "PLUM_4": "#00FFFF",
-    "PLUM_6": "#00FFFF",
     "BRAND_260": "#131218",
     "BRAND_300": "#00FFFF",
     "BRAND_330": "#00FFFF",
     "BRAND_345": "#00FFFF",
-    "BRAND_360": "#0000FF",
+    "BRAND_360": "#8700ff",
     "BRAND_400": "#00FFFF",
     "BRAND_430": "#00FFFF",
     "BRAND_460": "#00FFFF",
@@ -436,7 +434,7 @@
     "GREEN_300": "#00FFFF",
     "GREEN_330": "#00FFFF",
     "GREEN_345": "#00FFFF",
-    "GREEN_360": "#00FFFF",
+    "GREEN_360": "#8700ff",
     "GREEN_400": "#00FFFF",
     "GREEN_430": "#1e8743",
     "GREEN_460": "#227840",
