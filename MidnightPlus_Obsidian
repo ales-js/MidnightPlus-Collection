@@ -1,7 +1,7 @@
 {
   "name": "Midnight+ Obsidian V1.1",
   "description": "a Midnight/AMOLED theme with purple accents",
-  "version": "1.1",
+  "version": "1.11",
   "authors": [
     {
       "name": "ales.js"
@@ -499,6 +499,7 @@
   },
   "spec": 2
 }
+
 
 
 
