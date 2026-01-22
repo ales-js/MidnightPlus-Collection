@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.1",
+  "name": "Midnight+ Obsidian V1.2",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.1",
   "authors": [
@@ -55,6 +55,9 @@
     ],
     "BACKGROUND_TERTIARY": [
       "#ff0000"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#00FF00"
     ],
     "BADGE_BRAND_BG": [
       "#00FFFF"
