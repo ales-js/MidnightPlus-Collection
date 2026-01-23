@@ -387,6 +387,7 @@
     "PLUM_16": "#2d2d35",
     "PLUM_17": "#090015",
     "PLUM_18": "#141318",
+    "PLUM_19": "#00ff00",
     "PLUM_20": "#000000",
     "PLUM_22": "#17161C",
     "PLUM_24": "#000000",
@@ -497,8 +498,6 @@
     "ROLE_DEFAULT": "#00FFFF",
     "BLACK_460": "#00FFFF",
     "WHITE_500": "#FFFFFF"
-    "PLUM_19": "#00ff00",
-    "PRIMARY_730": "#00FFFF"
   },
   "plus": {
     "version": "0",
@@ -539,9 +538,10 @@
     }
   },
   "themeColors": {
-     "MAIN_BRIGHT": "#8400FF",
+     "MAIN_BRIGHT": "#8400FF"
   },
   "spec": 2
 }
+
 
 
