@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.2",
+  "name": "Midnight+ Obsidian V1.0",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -543,3 +543,4 @@
   },
   "spec": 2
 }
+
