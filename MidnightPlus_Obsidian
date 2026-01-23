@@ -523,6 +523,9 @@
       "QuestsIcon": "#00FFFF"
     }
   },
+  "themeColors": {
+     "MAIN_BRIGHT": "#8400FF",
+  },
   "spec": 2
 }
 
