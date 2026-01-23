@@ -352,7 +352,7 @@
     ],
     "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [
       "#FF0000"
-    ]
+    ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
       "#FF0000"
     ]
@@ -543,4 +543,5 @@
   },
   "spec": 2
 }
+
 
