@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.1",
+  "name": "Midnight+ Obsidian V1.0",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -47,6 +47,9 @@
     "BACKGROUND_PRIMARY": [
       "#000000"
     ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#000000"
+    ],
     "BACKGROUND_SECONDARY": [
       "#000000"
     ],
@@ -58,6 +61,9 @@
     ],
     "BACKGROUND_BASE_LOWEST": [
       "#000000"
+    ],
+    "BACKGROUND_BRAND": [
+      "#8400FF"
     ],
     "BADGE_BRAND_BG": [
       "#00FFFF"
@@ -146,8 +152,14 @@
     "TEXT_NORMAL": [
       "#ffffff"
     ],
+    "TEXT_DEFAULT": [
+      "#ffffff"
+    ],
     "MOBILE_TEXT_HEADING_PRIMARY": [
       "#ffffff"
+    ],
+    "TEXT_FEEDBACK_CRITICAL": [
+      "#FF2039"
     ],
     "TEXT_MUTED": [
       "#80848f"
@@ -180,7 +192,7 @@
       "#00FFFF"
     ],
     "BG_SURFACE_RAISED": [
-      "#00ff00"
+      "#141318"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#00FFFF"
@@ -225,7 +237,7 @@
       "#0000FF"
     ],
     "REDESIGN_BUTTON_PRIMARY_TEXT": [
-      "#00FFFF"
+      "#00FF00"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
       "#8400FF"
@@ -339,6 +351,9 @@
       "#150D0B"
     ],
     "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [
+      "#FF0000"
+    ]
+    "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
       "#FF0000"
     ]
   },
@@ -528,6 +543,7 @@
   },
   "spec": 2
 }
+
 
 
 
