@@ -234,7 +234,7 @@
       "#00FFFF"
     ],
     "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-      "#00Ff00"
+      "#8400Ff"
     ],
     "REDESIGN_BUTTON_PRIMARY_ALT_BACKGROUND": [
       "#00FFFF"
@@ -246,7 +246,7 @@
       "#FFFFFF"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#ff0000"
+      "#8400FF"
     ],
     "BG_BACKDROP": [
       "#00FFFF"
