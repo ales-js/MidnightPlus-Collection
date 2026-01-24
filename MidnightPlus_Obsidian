@@ -488,7 +488,7 @@
     "BLUE_260": "#00FFFF",
     "BLUE_300": "#00FFFF",
     "BLUE_330": "#00FFFF",
-    "BLUE_345": "#ffff00",
+    "BLUE_345": "#8400FF",
     "BLUE_360": "#00FFFF",
     "BLUE_400": "#00FFFF",
     "BLUE_430": "#00FFFF",
@@ -553,6 +553,7 @@
   },
   "spec": 2
 }
+
 
 
 
