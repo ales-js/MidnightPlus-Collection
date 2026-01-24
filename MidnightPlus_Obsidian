@@ -144,10 +144,10 @@
       "#0000FF"
     ],
     "MENTION_BACKGROUND": [
-      "#FFFF00"
+      "#492A7E"
     ],
     "MENTION_FOREGROUND": [
-      "#00FFFF"
+      "#FF0000"
     ],
     "TEXT_DANGER": [
       "#ff3030"
@@ -546,12 +546,14 @@
   "themeColors": {
     "COLOR_PRIMARY": "#8400FF",
     "COLOR_SECONDARY": "#5700AA",
+    "COLOR_TERTIARY": "#492A7E",
     "COLOR_DARK": "#110021",
 
     "DARKNESS_MAIN": "#0f0f0f"
   },
   "spec": 2
 }
+
 
 
 
