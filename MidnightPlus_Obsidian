@@ -69,7 +69,7 @@
       "#8400FF"
     ],
     "BADGE_BRAND_BG": [
-      "#00FFFF"
+      "#ff0000"
     ],
     "BADGE_BRAND_TEXT": [
       "#00FFFF"
@@ -147,13 +147,13 @@
       "#492A7E"
     ],
     "MENTION_FOREGROUND": [
-      "#FF0000"
+      "#8400FF"
     ],
     "TEXT_DANGER": [
       "#ff3030"
     ],
     "TEXT_LINK": [
-      "#00FFFF"
+      "#8400FF"
     ],
     "TEXT_NORMAL": [
       "#ffffff"
@@ -297,7 +297,7 @@
       "#00FFFF"
     ],
     "REDESIGN_BUTTON_DESTRUCTIVE_BACKGROUND": [
-      "#00FFFF"
+      "#FF2039"
     ],
     "REDESIGN_BUTTON_DESTRUCTIVE_TEXT": [
       "#00FFFF"
@@ -553,6 +553,7 @@
   },
   "spec": 2
 }
+
 
 
 
