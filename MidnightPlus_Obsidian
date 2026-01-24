@@ -360,7 +360,7 @@
       "#FF0000"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-      "#150029"
+      "#110021"
     ]
   },
   "rawColors": {
@@ -546,12 +546,13 @@
   "themeColors": {
     "COLOR_PRIMARY": "#8400FF",
     "COLOR_SECONDARY": "#5700AA",
-    "COLOR_DARK": "#150029",
+    "COLOR_DARK": "#110021",
 
     "DARKNESS_MAIN": "#0f0f0f"
   },
   "spec": 2
 }
+
 
 
 
