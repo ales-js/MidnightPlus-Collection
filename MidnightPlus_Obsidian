@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.0",
+  "name": "Midnight+ Obsidian V1.1",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -75,7 +75,7 @@
       "#00FFFF"
     ],
     "BORDER_FAINT": [
-      "#0000FF"
+      "#5700AA"
     ],
     "BORDER_MUTED": [
       "#8400FF"
@@ -99,7 +99,7 @@
       "#141318"
     ],
     "CHANNEL_ICON": [
-      "#5700aa"
+      "#5700AA"
     ],
     "CHANNELS_DEFAULT": [
       "#00FFFF"
@@ -135,7 +135,7 @@
       "#00FFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#1e003b"
+      "#8400FF"
     ],
     "INTERACTIVE_NORMAL": [
       "#0000FF"
@@ -177,7 +177,7 @@
       "#FFFFFF"
     ],
     "THREAD_CHANNEL_SPINE": [
-      "#FF0000"
+      "#8400FF"
     ],
     "BG_BASE_PRIMARY": [
       "#ffff00"
@@ -360,7 +360,7 @@
       "#FF0000"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-      "#FF0000"
+      "#150029"
     ]
   },
   "rawColors": {
@@ -385,7 +385,7 @@
     "PLUM_3": "#00FFFF",
     "PLUM_4": "#00FFFF",
     "PLUM_6": "#FF0000",
-    "PLUM_10": "#5700aa",
+    "PLUM_10": "#5700AA",
     "PLUM_11": "#0000ff",
     "PLUM_13": "#0000FF",
     "PLUM_14": "#141318",
@@ -545,11 +545,14 @@
   },
   "themeColors": {
     "COLOR_PRIMARY": "#8400FF",
-    "COLOR_SECONDARY": "#5700aa",
+    "COLOR_SECONDARY": "#5700AA",
+    "COLOR_DARK": "#150029",
+
     "DARKNESS_MAIN": "#0f0f0f"
   },
   "spec": 2
 }
+
 
 
 
