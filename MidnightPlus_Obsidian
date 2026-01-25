@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.0",
+  "name": "Midnight+ Obsidian V1.1",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -93,7 +93,7 @@
       "#00FFFF"
     ],
     "CARD_BACKGROUND_DEFAULT": [
-      "#141318"
+      "#0f0f0f"
     ],
     "CARD_SECONDARY_BG": [
       "#141318"
@@ -393,7 +393,7 @@
     "PLUM_16": "#2d2d35",
     "PLUM_17": "#090015",
     "PLUM_18": "#141318",
-    "PLUM_19": "#0000ff",
+    "PLUM_19": "#141318",
     "PLUM_20": "#000000",
     "PLUM_22": "#17161C",
     "PLUM_24": "#000000",
@@ -556,3 +556,4 @@
   },
   "spec": 2
 }
+
