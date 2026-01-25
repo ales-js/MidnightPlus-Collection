@@ -192,7 +192,7 @@
       "#ffff00"
     ],
     "BG_MOD_STRONG": [
-      "#0000ff"
+      "#ffff00"
     ],
     "BG_MOD_SUBTLE": [
       "#ff0000"
@@ -300,10 +300,10 @@
       "#FF2039"
     ],
     "REDESIGN_BUTTON_DESTRUCTIVE_TEXT": [
-      "#00ff00"
+      "#FFFFFF"
     ],
     "REDESIGN_BUTTON_ACTIVE_TEXT": [
-      "#ff0000"
+      "#FFFFFF"
     ],
     "CONTEXT_MENU_BACKDROP_BACKGROUND": [
       "#00FFFF"
@@ -392,8 +392,8 @@
     "PLUM_4": "#00FFFF",
     "PLUM_6": "#8400FF",
     "PLUM_10": "#5700AA",
-    "PLUM_11": "#0000ff",
-    "PLUM_13": "#0000FF",
+    "PLUM_11": "#00ff00",
+    "PLUM_13": "#ff0000",
     "PLUM_14": "#141318",
     "PLUM_15": "#0000FF",
     "PLUM_16": "#2d2d35",
@@ -562,6 +562,7 @@
   },
   "spec": 2
 }
+
 
 
 
