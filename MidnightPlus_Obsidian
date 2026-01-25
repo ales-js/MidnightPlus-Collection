@@ -81,7 +81,7 @@
       "#XXXXXX"
     ],
     "BORDER_STRONG": [
-      "#00ff00"
+      "#141318"
     ],
     "BORDER_SUBTLE": [
       "#0f0f0f"
@@ -210,7 +210,7 @@
       "#202020"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#8400FF"
+      "#5700AA"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
       "#141318"
@@ -556,6 +556,7 @@
   },
   "spec": 2
 }
+
 
 
 
