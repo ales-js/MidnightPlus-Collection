@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.0",
+  "name": "Midnight+ Obsidian V1.1",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -102,7 +102,7 @@
       "#5700AA"
     ],
     "CHANNELS_DEFAULT": [
-      "#00FFFF"
+      "#8400FF"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#00FFFF"
@@ -270,19 +270,19 @@
       "#0f0f0f"
     ],
     "LOGO_PRIMARY": [
-      "#00FFFF"
+      "#ffff00"
     ],
     "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-      "#00FFFF"
+      "#8400FF"
     ],
     "DIVIDER_STRONG": [
       "#00FFFF"
     ],
     "POLLS_VICTOR_FILL": [
-      "#00FFFF"
+      "#8400FF"
     ],
     "POLLS_VOTED_FILL": [
-      "#00FFFF"
+      "#ffff00"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#00FFFF"
@@ -322,6 +322,12 @@
     ],
     "STATUS_OFFLINE": [
       "#00FFFF"
+    ],
+    "STATUS_POSITIVE": [
+      "#8400FF"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#FFFFFF"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
       "#000000"
@@ -556,6 +562,7 @@
   },
   "spec": 2
 }
+
 
 
 
