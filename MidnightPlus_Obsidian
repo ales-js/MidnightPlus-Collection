@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.0",
+  "name": "Midnight+ Obsidian V1.1",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -384,7 +384,7 @@
     "PLUM_1": "#00FFFF",
     "PLUM_3": "#00FFFF",
     "PLUM_4": "#00FFFF",
-    "PLUM_6": "#FF0000",
+    "PLUM_6": "#00FFFF",
     "PLUM_10": "#5700AA",
     "PLUM_11": "#0000ff",
     "PLUM_13": "#0000FF",
