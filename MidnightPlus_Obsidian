@@ -240,7 +240,7 @@
       "#00FFFF"
     ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-      "#0000FF"
+      "#5700AA"
     ],
     "REDESIGN_BUTTON_PRIMARY_TEXT": [
       "#FFFFFF"
@@ -333,10 +333,10 @@
       "#141318"
     ],
     "REDESIGN_BUTTON_SECONDARY_TEXT": [
-      "#0000FF"
+      "#FFFFFF"
     ],
     "REDESIGN_BUTTON_TERTIARY_TEXT": [
-      "#0000FF"
+      "#FFFFFF"
     ],
     "TEXT_SECONDARY": [
       "#ffffff"
@@ -377,7 +377,7 @@
     "PRIMARY_630": "#00FFFF",
     "PRIMARY_645": "#00FFFF",
     "PRIMARY_660": "#1c1c1c",
-    "PRIMARY_700": "#0000FF",
+    "PRIMARY_700": "#00ff00",
     "PRIMARY_730": "#00FFFF",
     "PRIMARY_800": "#8400FF",
     "PLUM_0": "#00FFFF",
