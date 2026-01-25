@@ -78,13 +78,13 @@
       "#5700AA"
     ],
     "BORDER_MUTED": [
-      "#8400FF"
+      "#XXXXXX"
     ],
     "BORDER_STRONG": [
       "#8400FF"
     ],
     "BORDER_SUBTLE": [
-      "#141318"
+      "#0f0f0f"
     ],
     "CARD_PRIMARY_BG": [
       "#141318"
@@ -261,7 +261,7 @@
       "#00FFFF"
     ],
     "BUTTON_OUTLINE_DANGER_BORDER": [
-      "#FFFF00"
+      "#ff0000"
     ],
     "STATUS_DANGER": [
       "#170029"
@@ -555,4 +555,4 @@
     "RED_PRIMARY": "#e0423d"
   },
   "spec": 2
-}
+}
