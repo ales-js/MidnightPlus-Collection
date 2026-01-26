@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.0",
+  "name": "Midnight+ Obsidian V1.1",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -84,7 +84,7 @@
       "#141318"
     ],
     "BORDER_SUBTLE": [
-      "#0f0f0f"
+      "#7F848C"
     ],
     "CARD_PRIMARY_BG": [
       "#141318"
@@ -224,14 +224,14 @@
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#141318"
     ],
-    "REDESIGN_BUTTON_SECONDARY_OVERLAY_BACKGROUND": [
-      "#00FFFF"
+    "REDESIGN_BUTTON_PRIMARY_OVERLAY_BACKGROUND": [
+      "#8400FF"
     ],
-    "REDESIGN_BUTTON_SECONDARY_OVERLAY_PRESSED_BACKGROUND": [
-      "#00FFFF"
+    "REDESIGN_BUTTON_PRIMARY_OVERLAY_PRESSED_BACKGROUND": [
+      "#492A7E"
     ],
-    "REDESIGN_BUTTON_SECONDARY_OVERLAY_TEXT": [
-      "#00ff00"
+    "REDESIGN_BUTTON_PRIMARY_OVERLAY_TEXT": [
+      "#FFFFFF"
     ],
     "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
       "#8400Ff"
@@ -276,7 +276,7 @@
       "#8400FF"
     ],
     "DIVIDER_STRONG": [
-      "#00FFFF"
+      "#00ff00"
     ],
     "POLLS_VICTOR_FILL": [
       "#8400FF"
@@ -285,10 +285,10 @@
       "#ffff00"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#00FFFF"
+      "#1D1C21"
     ],
     "SPOILER_REVEALED_BACKGROUND": [
-      "#00FFFF"
+      "#ffff00"
     ],
     "INPUT_FOCUSED_BORDER": [
       "#00ffff"
@@ -418,7 +418,10 @@
     "BRAND_630": "#00FFFF",
     "BRAND_660": "#00FFFF",
     "BRAND_700": "#00FFFF",
-    "BRAND_730": "#00FFFF",
+    "BRAND_730": "#00FFFF",
+
+
+
     "BLURPLE_8": "#00FFFF",
     "BLURPLE_5": "#00FFFF",
     "RED_260": "#00FFFF",
@@ -552,6 +555,7 @@
   },
   "spec": 2
 }
+
 
 
 
