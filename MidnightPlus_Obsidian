@@ -207,7 +207,7 @@
       "#5700AA"
     ],
     "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-      "#492A7E"
+      "#000000"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#5700AA"
@@ -270,7 +270,7 @@
       "#00ff00"
     ],
     "POLLS_VICTOR_FILL": [
-      "#110021"
+      "#150029"
     ],
     "POLLS_VOTED_FILL": [
       "#8400FF"
@@ -357,7 +357,7 @@
       "#00ff00"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-      "#110021"
+      "#150029"
     ]
   },
   "rawColors": {
@@ -537,7 +537,7 @@
     "COLOR_PRIMARY": "#8400FF",
     "COLOR_SECONDARY": "#5700AA",
     "COLOR_TERTIARY": "#492A7E",
-    "COLOR_DARK": "#110021",
+    "COLOR_DARK": "#150029",
 
     "DARKNESS_MAIN": "#0f0f0f",
 
@@ -546,6 +546,7 @@
   },
   "spec": 2
 }
+
 
 
 
