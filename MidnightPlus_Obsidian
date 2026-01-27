@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian V1.1",
+  "name": "Midnight+ Obsidian V1.0",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -207,7 +207,7 @@
       "#150029"
     ],
     "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-      "#000000"
+      "#0d001a"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#5700AA"
@@ -538,6 +538,7 @@
     "COLOR_SECONDARY": "#5700AA",
     "COLOR_TERTIARY": "#492A7E",
     "COLOR_DARK": "#150029",
+    "COLOR_DARK_SECONDARY": "#0d001a",
 
     "DARKNESS_MAIN": "#0f0f0f",
 
@@ -546,6 +547,7 @@
   },
   "spec": 2
 }
+
 
 
 
