@@ -126,7 +126,7 @@
       "#00ff00"
     ],
     "INTERACTIVE_HOVER": [
-      "#00FFFF"
+      "#0000ff"
     ],
     "INTERACTIVE_MUTED": [
       "#8400FF"
@@ -318,7 +318,7 @@
       "#141318"
     ],
     "REDESIGN_BUTTON_SECONDARY_TEXT": [
-      "#ffff00"
+      "#C7C8CE"
     ],
     "REDESIGN_BUTTON_TERTIARY_TEXT": [
       "#8400FF"
@@ -397,10 +397,7 @@
     "BRAND_630": "#00FFFF",
     "BRAND_660": "#00FFFF",
     "BRAND_700": "#00FFFF",
-    "BRAND_730": "#00FFFF",
-
-
-
+    "BRAND_730": "#00FFFF",
     "BLURPLE_8": "#00FFFF",
     "BLURPLE_5": "#00FFFF",
     "RED_260": "#00FFFF",
@@ -478,8 +475,8 @@
     "BLUE_630": "#00FFFF",
     "BLUE_660": "#00FFFF",
     "BLUE_700": "#00FFFF",
-    "WHITE_630": "#00FFFF",
-    "ROLE_DEFAULT": "#00FFFF",
+    "WHITE_630": "#FF0000",
+    "ROLE_DEFAULT": "#ffbf00",
     "BLACK_460": "#00FFFF",
     "WHITE_500": "#FFFFFF"
   },
