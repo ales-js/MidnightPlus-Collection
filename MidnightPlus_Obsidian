@@ -207,7 +207,7 @@
       "#5700AA"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#ffff00"
+      "#0a0a0a"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#0000FF"
@@ -318,10 +318,10 @@
       "#141318"
     ],
     "REDESIGN_BUTTON_SECONDARY_TEXT": [
-      "#C7C8CE"
+      "#ffff00"
     ],
     "REDESIGN_BUTTON_TERTIARY_TEXT": [
-      "#C7C8CE"
+      "#8400FF"
     ],
     "TEXT_SECONDARY": [
       "#ffffff"
