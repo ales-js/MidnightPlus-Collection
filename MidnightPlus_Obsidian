@@ -93,7 +93,7 @@
       "#00FFFF"
     ],
     "CARD_BACKGROUND_DEFAULT": [
-      "#0f0f0f"
+      "#0a0a0a"
     ],
     "CARD_SECONDARY_BG": [
       "#141318"
@@ -117,10 +117,10 @@
       "#00FF00"
     ],
     "INPUT_BACKGROUND": [
-      "#141318"
+      "#0a0a0a"
     ],
     "INPUT_BACKGROUND_DEFAULT": [
-      "#141318"
+      "#0a0a0a"
     ],
     "INTERACTIVE_ACTIVE": [
       "#00ff00"
@@ -397,7 +397,8 @@
     "BRAND_630": "#00FFFF",
     "BRAND_660": "#00FFFF",
     "BRAND_700": "#00FFFF",
-    "BRAND_730": "#00FFFF",
+    "BRAND_730": "#00FFFF",
+
     "BLURPLE_8": "#00FFFF",
     "BLURPLE_5": "#00FFFF",
     "RED_260": "#00FFFF",
@@ -531,6 +532,7 @@
   },
   "spec": 2
 }
+
 
 
 
