@@ -1,7 +1,7 @@
 {
   "name": "Midnight+ Obsidian",
   "description": "a Midnight/AMOLED theme with purple accents",
-  "version": "0.0",
+  "version": "1.0",
   "authors": [
     {
       "name": "ales.js"
@@ -495,7 +495,7 @@
       "ic_star_filled": "#8400FF",
       "img_guild_folder": "#00FF00",
       "StatusMobileOnline": "#8400FF",
-      "StatusOnline": "#8400FF",
+      "StatusOnline": "#8400FF",
       "friends_toast_icon": "#00FFFF",
       "toast_copy_link": "#00FFFF",
       "toast_copy_message": "#00FFFF",
@@ -520,24 +520,3 @@
   },
   "spec": 2
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
