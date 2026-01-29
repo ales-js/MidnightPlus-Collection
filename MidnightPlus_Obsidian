@@ -1,7 +1,7 @@
 {
-  "name": "Midnight+ Obsidian",
+  "name": "Midnight+ Obsidian 1",
   "description": "a Midnight/AMOLED theme with purple accents",
-  "version": "1.0",
+  "version": "0.0",
   "authors": [
     {
       "name": "ales.js"
@@ -445,21 +445,23 @@
     "YELLOW_630": "#00FFFF",
     "YELLOW_660": "#00FFFF",
     "YELLOW_700": "#00FFFF",
-    "GREEN_260": "#00FFFF",
-    "GREEN_300": "#00FFFF",
-    "GREEN_330": "#00FFFF",
-    "GREEN_345": "#00FFFF",
+
+    "GREEN_260": "#ff0000",
+    "GREEN_300": "#00FF00",
+    "GREEN_330": "#0000FF",
+    "GREEN_345": "#ff9f00",
     "GREEN_360": "#00893B",
     "GREEN_400": "#00FFFF",
     "GREEN_430": "#1e8743",
     "GREEN_460": "#227840",
-    "GREEN_500": "#00FFFF",
-    "GREEN_530": "#00FFFF",
-    "GREEN_560": "#00FFFF",
-    "GREEN_600": "#00FFFF",
-    "GREEN_630": "#00FFFF",
-    "GREEN_660": "#00FFFF",
+    "GREEN_500": "#ffff0p",
+    "GREEN_530": "#FF8F00",
+    "GREEN_560": "#FF0000",
+    "GREEN_600": "#00FF00",
+    "GREEN_630": "#0000FF",
+    "GREEN_660": "#FF0000",
     "GREEN_700": "#00FFFF",
+
     "BLUE_260": "#00FFFF",
     "BLUE_300": "#00FFFF",
     "BLUE_330": "#00FFFF",
