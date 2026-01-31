@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian 0",
+  "name": "Midnight+ Obsidian",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -349,9 +349,9 @@
     ]
   },
   "rawColors": {
-    "PRIMARY_100": "#00ff00",
+    "PRIMARY_100": "#8400FF",
     "PRIMARY_200": "#8400FF",
-    "PRIMARY_230": "#ff00ff",
+    "PRIMARY_230": "#FFFFFF",
     "PRIMARY_300": "#8400FF",
     "PRIMARY_330": "#8400FF",
     "PRIMARY_360": "#8400FF",
