@@ -286,10 +286,7 @@
     ],
     "CONTEXT_MENU_BACKDROP_BACKGROUND": [
       "#00FFFF"
-    ],
-    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#FF00FF"
-    ],
+    ]
     "STATUS_DANGER_TEXT": [
       "#00FFFF"
     ],
