@@ -87,7 +87,7 @@
       "#141318"
     ],
     "CARD_PRIMARY_BG": [
-      "#141318"
+      "#FFFF00"
     ],
     "CARD_PRIMARY_PRESSED_BG": [
       "#00FFFF"
@@ -96,7 +96,7 @@
       "#0a0a0a"
     ],
     "CARD_SECONDARY_BG": [
-      "#141318"
+      "#FF0000"
     ],
     "CHANNEL_ICON": [
       "#5700AA"
