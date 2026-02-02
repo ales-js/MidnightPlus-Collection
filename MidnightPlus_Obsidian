@@ -365,9 +365,9 @@
     "PRIMARY_800": "#8400FF",
 
     "PLUM_0": "#FF0000",
-    "PLUM_1": "#00FFFF",
-    "PLUM_3": "#00FFFF",
-    "PLUM_4": "#00FFFF",
+    "PLUM_1": "#00FF00",
+    "PLUM_3": "#FF0000",
+    "PLUM_4": "#FFFF00",
     "PLUM_6": "#8400FF",
     "PLUM_10": "#5700AA",
     "PLUM_11": "#6B707D",
@@ -422,21 +422,8 @@
     "mentionLineColor": "#8400FF",
     "customOverlays": true,
     "icons": {
-      "ic_radio_circle_checked": "#00FFFF",
-      "ic_radio_square_24px": "#00FFFF",
-      "ic_radio_square_checked_24px": "#00FFFF",
-      "ic_rich_presence_dark_12px": "#00FFFF",
-      "ic_selection_checked_24px": "#00FFFF",
-      "ic_selection_none_24px": "#FFFF00",
-      "ic_star_filled": "#8400FF",
-      "img_guild_folder": "#00FF00",
       "StatusMobileOnline": "#8400FF",
-      "StatusOnline": "#8400FF",
-      "friends_toast_icon": "#00FFFF",
-      "toast_copy_link": "#00FFFF",
-      "toast_copy_message": "#00FFFF",
-      "toast_image_saved": "#00FFFF",
-      "toast_invite_sent": "#00FFFF"
+      "StatusOnline": "#8400FF"
     }
   },
   "themeColors": {
