@@ -266,11 +266,8 @@
     "SPOILER_HIDDEN_BACKGROUND": [
       "#1D1C21"
     ],
-    "SPOILER_REVEALED_BACKGROUND": [
-      "#ffff00"
-    ],
     "INPUT_FOCUSED_BORDER": [
-      "#00ffff"
+      "#00ff00"
     ],
     "NAVIGATOR_HEADER_TINT": [
       "#00FFFF"
