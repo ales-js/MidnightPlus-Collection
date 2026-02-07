@@ -222,7 +222,7 @@
       "#8400FF"
     ],
     "REDESIGN_BUTTON_PRIMARY_ALT_BACKGROUND": [
-      "#00FFFF"
+      "#00FF00"
     ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
       "#5700AA"
@@ -377,11 +377,11 @@
     "PLUM_24": "#000000",
 
     "BRAND_260": "#141318",
-    "BRAND_300": "#00FFFF",
-    "BRAND_330": "#00FFFF",
-    "BRAND_345": "#00FFFF",
+    "BRAND_300": "#0000FF",
+    "BRAND_330": "#FF0000",
+    "BRAND_345": "#FF00FF",
     "BRAND_360": "#8400FF",
-    "BRAND_400": "#00FFFF",
+    "BRAND_400": "#FFFF00",
     "BRAND_430": "#00FFFF",
     "BRAND_460": "#00FFFF",
     "BRAND_500": "#8400FF",
