@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian 0",
+  "name": "Midnight+ Obsidian",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -355,7 +355,6 @@
     "PRIMARY_800": "#0a0a0a",
 
     "PLUM_0": "#FF0000",
-    "PLUM_1": "#ffff00",
     "PLUM_3": "#FF0000",
     "PLUM_4": "#8400FF",
     "PLUM_6": "#8400FF",
@@ -377,12 +376,12 @@
     "BRAND_345": "#8400FF",
     "BRAND_360": "#8400FF",
     "BRAND_400": "#ff00ff",
-    "BRAND_430": "#00FFFF",
-    "BRAND_460": "#00FFFF",
+    "BRAND_430": "#ff00FF",
+    "BRAND_460": "#ff00fF",
     "BRAND_500": "#8400FF",
-    "BRAND_530": "#00FFFF",
-    "BRAND_560": "#00FFFF",
-    "BRAND_600": "#00FFFF",
+    "BRAND_530": "#00p0FF",
+    "BRAND_560": "#00ff00",
+    "BRAND_600": "#ff0000",
     "BRAND_630": "#ff00ff",
     "BRAND_660": "#0000ff",
     "BRAND_700": "#00ff00",
