@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian",
+  "name": "Midnight+ Obsidian A",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -387,7 +387,7 @@
     "BRAND_700": "#ff0000",
     "BRAND_730": "#00ffff",
 
-    "BLURPLE_8": "#ffff00",
+    "BLURPLE_8": "#00ffff",
     "BLURPLE_5": "#00ff00",
 
     "RED_400": "#FF2039",
