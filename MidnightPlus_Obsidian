@@ -372,7 +372,7 @@
     "PLUM_24": "#000000",
 
     "BRAND_260": "#141318",
-    "BRAND_330": "#FF0000",
+    "BRAND_330": "#00ff00",
     "BRAND_345": "#8400FF",
     "BRAND_360": "#8400FF",
     "BRAND_400": "#ff00ff",
@@ -381,13 +381,13 @@
     "BRAND_500": "#8400FF",
     "BRAND_530": "#0000FF",
     "BRAND_560": "#492A7E",
-    "BRAND_600": "#ff0000",
+    "BRAND_600": "#ffff00",
     "BRAND_630": "#ff00ff",
     "BRAND_660": "#0000ff",
-    "BRAND_700": "#8400FF",
-    "BRAND_730": "#ff0000",
+    "BRAND_700": "#ff0000",
+    "BRAND_730": "#00ffff",
 
-    "BLURPLE_8": "#FF0000",
+    "BLURPLE_8": "#ffff00",
     "BLURPLE_5": "#00ff00",
 
     "RED_400": "#FF2039",
