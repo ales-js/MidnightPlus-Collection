@@ -126,7 +126,7 @@
       "#00ff00"
     ],
     "INTERACTIVE_HOVER": [
-      "#0000ff"
+      "#ff8400"
     ],
     "INTERACTIVE_MUTED": [
       "#8400FF"
@@ -354,8 +354,8 @@
     "PRIMARY_700": "#000000",
     "PRIMARY_800": "#0a0a0a",
 
-    "PLUM_0": "#FF0000",
-    "PLUM_3": "#FF0000",
+    "PLUM_0": "#00ff00",
+    "PLUM_3": "#Ff00ff",
     "PLUM_4": "#8400FF",
     "PLUM_6": "#8400FF",
     "PLUM_10": "#5700AA",
@@ -376,7 +376,7 @@
     "BRAND_345": "#8400FF",
     "BRAND_360": "#8400FF",
     "BRAND_400": "#8400FF",
-    "BRAND_430": "#ff0000",
+    "BRAND_430": "#ffff00",
     "BRAND_460": "#00ff00",
     "BRAND_500": "#8400FF",
     "BRAND_530": "#0000FF",
@@ -384,7 +384,7 @@
     "BRAND_600": "#8400FF",
     "BRAND_630": "#0000ff",
     "BRAND_660": "#0000ff",
-    "BRAND_700": "#ff0000",
+    "BRAND_700": "#0000ff",
     "BRAND_730": "#00ffff",
 
     "BLURPLE_8": "#00ffff",
