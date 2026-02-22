@@ -355,7 +355,6 @@
     "PRIMARY_800": "#0a0a0a",
 
     "PLUM_0": "#00ff00",
-    "PLUM_3": "#Ff00ff",
     "PLUM_4": "#8400FF",
     "PLUM_6": "#8400FF",
     "PLUM_10": "#5700AA",
@@ -379,11 +378,11 @@
     "BRAND_430": "#ffff00",
     "BRAND_460": "#00ff00",
     "BRAND_500": "#8400FF",
-    "BRAND_530": "#0000FF",
+    "BRAND_530": "#ffff00",
     "BRAND_560": "#492A7E",
     "BRAND_600": "#8400FF",
-    "BRAND_630": "#0000ff",
-    "BRAND_660": "#0000ff",
+    "BRAND_630": "#00ff00",
+    "BRAND_660": "#ff0000",
     "BRAND_700": "#0000ff",
     "BRAND_730": "#00ffff",
 
