@@ -1,5 +1,5 @@
 {
-  "name": "Midnight+ Obsidian",
+  "name": "Midnight+ Obsidian 0",
   "description": "a Midnight/AMOLED theme with purple accents",
   "version": "1.0",
   "authors": [
@@ -30,7 +30,6 @@
     "BADGE_BRAND_BG": ["#00ff00"],
     "BADGE_BRAND_TEXT": ["#ff0000"],
     "BORDER_FAINT": ["#5700AA"],
-    "BORDER_MUTED": ["#XXXXXX"],
     "BORDER_STRONG": ["#141318"],
     "BORDER_SUBTLE": ["#141318"],
     "CARD_PRIMARY_BG": ["#FFFF00"],
@@ -89,11 +88,11 @@
     "BG_BRAND": ["#0f0f0f"],
     "LOGO_PRIMARY": ["#ffff00"],
     "REDESIGN_INPUT_CONTROL_ACTIVE_BG": ["#8400FF"],
-    "DIVIDER_STRONG": ["#00ff00"],
+    "DIVIDER_STRONG": ["#ff0000"],
     "POLLS_VICTOR_FILL": ["#150029"],
     "POLLS_VOTED_FILL": ["#8400FF"],
     "SPOILER_HIDDEN_BACKGROUND": ["#1D1C21"],
-    "INPUT_FOCUSED_BORDER": ["#00ff00"],
+    "INPUT_FOCUSED_BORDER": ["#0000ff"],
     "NAVIGATOR_HEADER_TINT": ["#00FFFF"],
     "REDESIGN_BUTTON_DESTRUCTIVE_BACKGROUND": ["#FF2039"],
     "REDESIGN_BUTTON_DESTRUCTIVE_TEXT": ["#FFFFFF"],
