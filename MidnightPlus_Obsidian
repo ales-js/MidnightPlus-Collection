@@ -1,7 +1,3 @@
-{
-  "name": "Midnight+ Obsidian",
-  "description": "a Midnight/AMOLED theme with purple accents",
-  "version": "1.0",
   "authors": [
     {
       "name": "ales.js"
@@ -64,9 +60,9 @@
     "BG_BASE_PRIMARY": ["#ffff00"],
     "BG_BASE_SECONDARY": ["#000000"],
     "BG_BASE_TERTIARY": ["#00ff00"],
-    "BG_MOD_FAINT": ["#ffff00"],
-    "BG_MOD_STRONG": ["#ffff00"],
-    "BG_MOD_SUBTLE": ["#ff0000"],
+    "BG_MOD_FAINT": ["#ff00ff"],
+    "BG_MOD_STRONG": ["#ff0000"],
+    "BG_MOD_SUBTLE": ["#0000ff"],
     "BG_SURFACE_RAISED": ["#141318"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#00FFFF"],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#150029"],
